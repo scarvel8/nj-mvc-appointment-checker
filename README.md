@@ -48,7 +48,6 @@ The script will check for available appointments at the specified locations and 
 
 ## Notes
 
-- Ensure that you have enabled "Less secure app access" in your Google account settings if using Gmail for sending emails.
 - You may need to install Playwright browsers by running:
   ```
   playwright install
